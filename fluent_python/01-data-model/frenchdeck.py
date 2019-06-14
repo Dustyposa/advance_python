@@ -1,6 +1,7 @@
 import collections
 
 Card = collections.namedtuple('Card', ['rank', 'suit'])
+collections.defaultdict()
 
 
 class FrenchDeck:
